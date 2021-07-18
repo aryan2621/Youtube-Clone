@@ -24,7 +24,6 @@ after the installation of files type
 
 ```bash
 npm start
-
 ```
 This will open your project in the browser with localhost:3000
 
